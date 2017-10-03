@@ -13,6 +13,7 @@ function logWhisper(string){
 function sayHiToGrandma(string){
   return string.toLowerCase()
   return string.toUpperCase()
-  return string(0).uppercase()
+  return firstChar.uppercase
+  firstChar = this.string.substring( 0, 1 ); 
 
 }
