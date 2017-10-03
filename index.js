@@ -14,6 +14,6 @@ function sayHiToGrandma(string){
   return string.toLowerCase()
   return string.toUpperCase()
   return firstChar.uppercase
-  firstChar = this.string.substring( 0, 1 ); 
+  firstChar = this.string.substring( 0, 1 );
 
 }
